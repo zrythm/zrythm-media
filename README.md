@@ -7,8 +7,11 @@ for the
 
 This is a work a work in progress.
 
+Patches to add more content are welcome.
+
 # Licensing
-See each directory's README file for licensing info of each file.
+See each directory's `README.md` file for licensing info
+of each file.
 
 License texts are found at the root of this repository.
 
