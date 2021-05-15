@@ -10,10 +10,8 @@ This is a work a work in progress.
 Patches to add more content are welcome.
 
 # Licensing
-See each directory's `README.md` file for licensing info
+See each directory's `README`/`README.md` file for licensing info
 of each file.
-
-License texts are found at the root of this repository.
 
 # Trademarks
 Zrythm and the Zrythm logo are registered trademarks of
